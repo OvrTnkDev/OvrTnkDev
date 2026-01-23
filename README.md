@@ -1,6 +1,6 @@
 # Fabio D'Alessandro
 
-### 💻 Junior .NET Developer | C# | SQL | Backend & Data Optimization
+### 💻 Junior Software Engineer | C# | SQL | Backend & Data Optimization
 
 Benvenuto nella repository del mio profilo professionale. Qui puoi trovare una panoramica delle mie competenze e il mio Curriculum Vitae aggiornato.
 
@@ -8,7 +8,7 @@ Benvenuto nella repository del mio profilo professionale. Qui puoi trovare una p
 
 ## 📄 CV Aggiornato
 
-👉 **[Scarica il mio Curriculum Vitae (PDF)](./Fabio_DAlessandro_CV.pdf)**
+👉 **[Scarica il mio Curriculum Vitae (PDF)](./2026_01_cv_se_Fabio_Dalessandro.pdf)**
 
 ---
 
