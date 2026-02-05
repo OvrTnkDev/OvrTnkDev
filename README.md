@@ -6,7 +6,7 @@
 <h3 align="center">Junior Data Engineer | Student (L-31) | ETL Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabio-d-alessandro-a06038130">
+  <a href="www.linkedin.com/in/fabio-d-alessandro-a06a3813a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:dalessandrofabio96@gmail.com">
