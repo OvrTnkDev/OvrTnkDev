@@ -1,56 +1,72 @@
-# Fabio D'Alessandro
+<div align="center">
+  <img src="de_banner.png" width="100%" alt="Data Engineering Banner" />
+</div>
 
-### 💻 Junior Software Engineer | C# | SQL | Backend & Data Optimization
+<h1 align="center">Hi there, I'm Fabio D'Alessandro 👋</h1>
+<h3 align="center">Junior Data Engineer | Student (L-31) | ETL Specialist</h3>
 
-Benvenuto nella repository del mio profilo professionale. Qui puoi trovare una panoramica delle mie competenze e il mio Curriculum Vitae aggiornato.
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabio-d-alessandro-a06038130">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dalessandrofabio96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Sono uno studente di **Informatica per le Aziende Digitali (L-31)** con una forte passione per i dati e le architetture backend.
+Il mio percorso è **ibrido**: ho iniziato "sporcandomi le mani" con sistemi legacy (IBM iSeries/AS400) per poi evolvermi verso moderne pipeline dati in **Python** e **Cloud architectures**.
+
+Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli di bottiglia.
+
+> 🚀 **Key Achievement:** Ho ridotto del **50%** i tempi di elaborazione della reportistica aziendale progettando pipeline ETL ibride (SQL + Python) e ottimizzando query complesse su grandi moli di dati.
 
 ---
 
 ## 📄 CV Aggiornato
 
-👉 **[Scarica il mio Curriculum Vitae (PDF)](./2026_01_cv_se_Fabio_Dalessandro.pdf)**
+👉 **[Scarica il mio Curriculum Vitae (PDF)](./2026_02_cv_de_Fabio_Dalessandro.pdf)**
+
+--
+
+### 🛠️ Tech Stack & Tools
+
+**Data Engineering & Analytics**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/DB2-000000?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**Backend & Development**
+<br>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+
+**Legacy & Specialized**
+<br>
+<img src="https://img.shields.io/badge/IBM_iSeries-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/RPG_IV-Legacy-gray?style=for-the-badge" />
 
 ---
 
-## 🚀 Chi Sono
+### 📚 Current Learning Focus
 
-Sviluppatore software Junior focalizzato su **C#/.NET** e **SQL**. Sto consolidando le competenze backend approfondendo **ASP.NET Core** ed **Entity Framework**, con un interesse parallelo per lo sviluppo mobile (**Flutter**).
+Sto costantemente aggiornando le mie competenze per colmare il gap tra on-premise e cloud:
 
-Studente di Informatica (L-31), unisco lo studio teorico alla pratica: ho maturato esperienza diretta nell'**ottimizzazione di query complesse**, migliorando sensibilmente l'efficienza dei processi di reportistica (**-50% tempi di elaborazione**).
-
-Ambisco a un ruolo tecnico in contesti strutturati per contribuire allo sviluppo di soluzioni backend scalabili.
-
----
-
-## 🛠 Tech Stack
-
-### **Sviluppo .NET & Architettura**
-
-- **Linguaggi:** C# (Intermedio), Python (Scripting/ETL)
-- **Concetti:** OOP, Principi SOLID, Design Patterns, Dependency Injection
-- **Frameworks:** ASP.NET Core, Entity Framework _(In apprendimento)_
-
-### **Database & Data Engineering**
-
-- **RDBMS:** SQL (DB2 su IBM i/AS400), MySQL
-- **Skills:** Query Optimization, Complex Joins, Pipeline ETL, Trigger
-- **Legacy:** RPG IV (ILE/Free), CL (Manutenzione)
-
-### **Mobile & Frontend**
-
-- **Mobile:** Flutter / Dart _(In apprendimento)_
-- **Web:** HTML5, CSS3
-
-### **Tools & Workflow**
-
-- **IDE:** Visual Studio, VS Code, DBeaver
-- **Version Control:** Git
+- [cite_start]🌱 **Deepening:** Machine Learning algorithms (Scikit-learn) & Advanced Python[cite: 29].
+- 🔭 **Exploring:** Cloud Data Engineering (AWS/Azure) & Containerization (Docker).
+- [cite_start]💻 **Consolidating:** C# Advanced & .NET Architecture[cite: 37].
 
 ---
 
-## 📫 Contatti
-
-Sono sempre aperto a nuove opportunità lavorative e collaborazioni tecniche.
-
-- 💼 **LinkedIn:** [linkedin.com/in/fabio-d-alessandro-a06a3813a](https://www.linkedin.com/in/fabio-d-alessandro-a06a3813a)
-- 📧 **Email:** [dalessandrofabio96@gmail.com](mailto:dalessandrofabio96@gmail.com)
+<div align="center">
+  <i>"Data is the new oil, but only if you know how to refine it."</i>
+</div>
