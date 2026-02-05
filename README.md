@@ -61,9 +61,9 @@ Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli 
 
 Sto costantemente aggiornando le mie competenze per colmare il gap tra on-premise e cloud:
 
-- [cite_start]🌱 **Deepening:** Machine Learning algorithms (Scikit-learn) & Advanced Python[cite: 29].
+- 🌱 **Deepening:** Machine Learning algorithms (Scikit-learn) & Advanced Python.
 - 🔭 **Exploring:** Cloud Data Engineering (AWS/Azure) & Containerization (Docker).
-- [cite_start]💻 **Consolidating:** C# Advanced & .NET Architecture[cite: 37].
+- 💻 **Consolidating:** C# Advanced & .NET Architecture.
 
 ---
 
