@@ -31,7 +31,7 @@ Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli 
 
 👉 **[Scarica il mio Curriculum Vitae (PDF)](./2026_02_cv_de_Fabio_Dalessandro.pdf)**
 
---
+---
 
 ### 🛠️ Tech Stack & Tools
 
