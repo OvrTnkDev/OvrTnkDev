@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="de_banner.png" width="100%" alt="Data Engineering Banner" />
+  <img src="banner.png" width="100%" alt="Info Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm Fabio D'Alessandro 👋</h1>
-<h3 align="center">Junior Data Engineer | Student (L-31) | ETL Specialist</h3>
+<h3 align="center">Software Engineer | SQL, Python, ETL | Studente Informatica L-31</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/fabio-d-alessandro-a06a3813a">
+  <a href="https://www.linkedin.com/in/fabio-d-alessandro-a06a3813a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:dalessandrofabio96@gmail.com">
@@ -19,17 +19,17 @@
 ### 👨‍💻 About Me
 
 Sono uno studente di **Informatica per le Aziende Digitali (L-31)** con una forte passione per i dati e le architetture backend.
-Il mio percorso è **ibrido**: ho iniziato "sporcandomi le mani" con sistemi legacy (IBM iSeries/AS400) per poi evolvermi verso moderne pipeline dati in **Python** e **Cloud architectures**.
+Il mio percorso è **ibrido**: ho iniziato "sporcandomi le mani" con sistemi legacy (IBM iSeries/AS400) per poi evolvermi verso moderne pipeline dati in **Python**.
 
 Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli di bottiglia.
 
-> 🚀 **Key Achievement:** Ho ridotto del **50%** i tempi di elaborazione della reportistica aziendale progettando pipeline ETL ibride (SQL + Python) e ottimizzando query complesse su grandi moli di dati.
+> **Key Achievement:** Ho ridotto del **50%** i tempi di elaborazione della reportistica aziendale progettando pipeline ETL ibride (SQL + Python) e ottimizzando query complesse su grandi moli di dati.
 
 ---
 
 ## 📄 CV Aggiornato
 
-👉 **[Scarica il mio Curriculum Vitae (PDF)](./2026_02_cv_de_Fabio_Dalessandro.pdf)**
+👉 **[Scarica il mio Curriculum Vitae (PDF)](./2026_03_cv_se_Fabio_Dalessandro.pdf)**
 
 ---
 
@@ -38,6 +38,7 @@ Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli 
 **Data Engineering & Analytics**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
