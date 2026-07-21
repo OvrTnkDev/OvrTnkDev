@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Fabio D'Alessandro 👋</h1>
-<h3 align="center">Software Engineer | SQL, Python, ETL | Studente Informatica L-31</h3>
+<h3 align="center">Software Developer | SQL, Python, ETL | Studente Informatica L-31</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabio-d-alessandro-a06a3813a">
@@ -21,18 +21,19 @@
 
 ### 👨‍💻 About Me
 
-Sono uno studente di **Informatica per le Aziende Digitali (L-31)** con una forte passione per i dati e le architetture backend.
-Il mio percorso è **ibrido**: ho iniziato "sporcandomi le mani" con sistemi legacy (IBM iSeries/AS400) per poi evolvermi verso moderne pipeline dati in **Python**.
+Software developer con un background nello sviluppo backend (C#/.NET, Python) e nell'ottimizzazione di infrastrutture dati
+(SQL). Attualmente operativo presso Accenture, dove integro la logica di sviluppo software con l'automazione enterprise tramite
+Blue Prism, estendendo le funzionalità dei robot con codice custom C#/.NET. Studente di Informatica per le Aziende Digitali (L-
+31), unisco un forte approccio metodologico alla risoluzione di problemi complessi, con l'obiettivo di progettare soluzioni
+backend scalabili,sicure e data-driven.
 
-Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli di bottiglia.
-
-> **Key Achievement:** Ho ridotto del **50%** i tempi di elaborazione della reportistica aziendale progettando pipeline ETL ibride (SQL + Python) e ottimizzando query complesse su grandi moli di dati.
+>Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli di bottiglia.
 
 ---
 
 ## 📄 CV Aggiornato
 
-👉 **[Scarica il mio Curriculum Vitae (PDF)](./2026_03_cv_se_Fabio_Dalessandro.pdf)**
+👉 **[Scarica il mio Curriculum Vitae (PDF)](./07_26_CV_Fabio_DAlessandro.pdf)**
 
 ---
 
@@ -48,7 +49,7 @@ Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli 
 
 **Backend & Development**
 <br>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/BluePrism-0055A4?style=for-the-badge&logo=blueprism&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -58,16 +59,6 @@ Mi distinguo per un approccio pragmatico: non scrivo solo codice, risolvo colli 
 <br>
 <img src="https://img.shields.io/badge/IBM_iSeries-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 <img src="https://img.shields.io/badge/RPG_IV-Legacy-gray?style=for-the-badge" />
-
----
-
-### 📚 Current Learning Focus
-
-Sto costantemente aggiornando le mie competenze per colmare il gap tra on-premise e cloud:
-
-- 🌱 **Deepening:** Machine Learning algorithms (Scikit-learn) & Advanced Python.
-- 🔭 **Exploring:** Cloud Data Engineering (AWS/Azure) & Containerization (Docker).
-- 💻 **Consolidating:** C# Advanced & .NET Architecture.
 
 ---
 
